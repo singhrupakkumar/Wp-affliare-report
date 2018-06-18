@@ -1,0 +1,2 @@
+[03-Sep-2017 10:05:08 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 72 bytes) in /home/rupak/public_html/report/wp-includes/kses.php on line 1430
+[03-Sep-2017 16:24:51 UTC] PHP Fatal error:  Out of memory (allocated 4980736) (tried to allocate 49152 bytes) in /home/rupak/public_html/report/wp-includes/date.php on line 778
